@@ -222,15 +222,7 @@ I actively practice **DSA using C++** and work on improving my problem-solving s
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ujjawal3084&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com/?user=ujjawal3084&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<br>
+!-- Snake Game Repo View -->
 
 <div align="center">
 
