@@ -214,17 +214,13 @@ I actively practice **DSA using C++** to strengthen my problem-solving and algor
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ujjawal3084&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
+[![GitHub Profile](https://img.shields.io/badge/GitHub-ujjawal3084-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ujjawal3084)
 
-<img src="https://streak-stats.demolab.com/?user=ujjawal3084&theme=tokyonight&hide_border=true" height="165"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal3084&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+[![Repositories](https://img.shields.io/badge/Repositories-Explore%20My%20Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ujjawal3084?tab=repositories)
 
 </div>
 
