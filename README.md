@@ -215,9 +215,10 @@ I actively practice **DSA using C++** to strengthen my problem-solving and algor
 ---
 # 📊 GitHub Statistics
 
+
 <div align="center">
 
-![Ujjawal's GitHub Stats](https://github-readme-stats-ukj.vercel.app/api?username=ujjawal3084)
+<img src="https://github-readme-stats-ukj.vercel.app/api?username=ujjawal3084&cache_seconds=1" alt="Ujjawal's GitHub Stats">
 
 </div>
 
