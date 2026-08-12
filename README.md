@@ -220,16 +220,11 @@ I actively practice **DSA using C++** and work on improving my problem-solving s
 
 ---
 
-# 📊 GitHub Stats
-
 !-- Snake Game Repo View -->
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjawal3084&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
 ---
 
 # 🤝 Open to Collaborate
