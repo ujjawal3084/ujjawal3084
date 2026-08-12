@@ -10,15 +10,15 @@ I enjoy turning ideas into working projects and continuously improving my skills
 
 ## 🚀 About Me
 
-* 🎓 B.Tech in **Computer Science & System Engineering**
-* 📈 **CGPA: 9.24 / 10**
-* 💻 Practicing **Data Structures & Algorithms in C++**
-* ☁️ Hands-on experience with **AWS Cloud & Data Engineering**
-* 🔄 Interested in **ETL, Data Migration & Change Data Capture**
-* 🗄️ Experienced with **SQL & PostgreSQL**
-* 🌐 Building applications with **React.js, Node.js & Express.js**
-* 🤖 Exploring **AI/ML and AI-powered applications**
-* ⚙️ Learning **DevOps, CI/CD & System Design**
+- 🎓 B.Tech in **Computer Science & System Engineering**
+- 📈 **CGPA: 9.24 / 10**
+- 💻 Practicing **Data Structures & Algorithms in C++**
+- ☁️ Hands-on experience with **AWS Cloud & Data Engineering**
+- 🔄 Interested in **ETL, Data Migration & Change Data Capture**
+- 🗄️ Experienced with **SQL & PostgreSQL**
+- 🌐 Building applications with **React.js, Node.js & Express.js**
+- 🤖 Exploring **AI/ML and AI-powered applications**
+- ⚙️ Learning **DevOps, CI/CD & System Design**
 
 ---
 
@@ -26,22 +26,22 @@ I enjoy turning ideas into working projects and continuously improving my skills
 
 ### ☁️ Minfy Technologies
 
-**Intern — Data Analytics & Cloud Technologies**
+**Intern — Data Analytics & Cloud Technologies**  
 *May 2026 – July 2026*
 
-* Worked with **AWS S3, Glue, Athena, RDS and DMS**
-* Performed **SQL-based querying, validation and analysis**
-* Explored **ETL pipelines, data migration and CDC**
-* Worked with **PostgreSQL databases**
-* Learned about **Bronze, Silver and Gold data architecture**
-* Gained exposure to **Apache Kafka and Apache Flink**
+- Worked with **AWS S3, Glue, Athena, RDS and DMS**
+- Performed **SQL-based querying, validation and analysis**
+- Explored **ETL pipelines, data migration and CDC**
+- Worked with **PostgreSQL databases**
+- Learned about **Bronze, Silver and Gold data architecture**
+- Gained exposure to **Apache Kafka and Apache Flink**
 
 ### ⚙️ Innomotics
 
 **Internship — Industrial Automation**
 
-* Worked on **PLC logic comparison and validation tools**
-* Gained practical exposure to software development in an industrial environment
+- Worked on **PLC logic comparison and validation tools**
+- Gained practical exposure to software development in an industrial environment
 
 ---
 
@@ -49,34 +49,34 @@ I enjoy turning ideas into working projects and continuously improving my skills
 
 ### 💻 Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### ☁️ Cloud & Data
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Amazon Athena](https://img.shields.io/badge/Amazon_Athena-8C4FFF?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Amazon_Athena-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ### 🌐 Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 
 ### 🔧 Tools & Practices
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -88,10 +88,10 @@ A **content-based movie recommendation system** developed using Python and data-
 
 **Focus:**
 
-* Content-based recommendation
-* Feature extraction
-* Similarity calculation
-* Movie recommendation
+- Content-based recommendation
+- Feature extraction
+- Similarity calculation
+- Movie recommendation
 
 🔗 [View Repository](https://github.com/ujjawal3084/Movie-recommendation-system)
 
@@ -113,10 +113,10 @@ A data-focused project involving an **employee payroll processing pipeline**.
 
 **Focus:**
 
-* Data processing
-* Pipeline development
-* Structured data handling
-* Automation
+- Data processing
+- Pipeline development
+- Structured data handling
+- Automation
 
 🔗 [View Repository](https://github.com/ujjawal3084/employee-payroll-pipeline)
 
@@ -128,10 +128,10 @@ A hands-on DevOps project focused on software development and deployment practic
 
 **Focus:**
 
-* DevOps
-* Automation
-* Development workflows
-* Deployment practices
+- DevOps
+- Automation
+- Development workflows
+- Deployment practices
 
 🔗 [View Repository](https://github.com/ujjawal3084/devops-capstone-project)
 
@@ -143,10 +143,10 @@ A project focused on implementing **Continuous Integration and Continuous Deploy
 
 **Focus:**
 
-* CI/CD pipelines
-* Automation
-* Software delivery
-* DevOps practices
+- CI/CD pipelines
+- Automation
+- Software delivery
+- DevOps practices
 
 🔗 [View Repository](https://github.com/ujjawal3084/ci-cd-final-project)
 
@@ -158,10 +158,10 @@ A project exploring **Test-Driven Development and Behavior-Driven Development** 
 
 **Focus:**
 
-* TDD
-* BDD
-* Software testing
-* Development workflows
+- TDD
+- BDD
+- Software testing
+- Development workflows
 
 🔗 [View Repository](https://github.com/ujjawal3084/tdd-bdd-final-project)
 
@@ -173,10 +173,10 @@ An AI-oriented project focused on automated answer evaluation and analysis.
 
 **Focus:**
 
-* Artificial Intelligence
-* Answer evaluation
-* Automated analysis
-* Python
+- Artificial Intelligence
+- Answer evaluation
+- Automated analysis
+- Python
 
 🔗 [View Repository](https://github.com/ujjawal3084/AnswerEye-AI)
 
@@ -210,34 +210,35 @@ I actively practice **DSA using C++** and work on improving my problem-solving s
 
 # 📚 Currently Learning
 
-* 🏗️ **System Design**
-* ☁️ **AWS & Cloud Architecture**
-* 🔄 **Data Engineering**
-* ⚙️ **Backend Development**
-* 🧩 **Advanced DSA**
-* 🚀 **DevOps & CI/CD**
-* 🤖 **AI/ML Applications**
+- 🏗️ **System Design**
+- ☁️ **AWS & Cloud Architecture**
+- 🔄 **Data Engineering**
+- ⚙️ **Backend Development**
+- 🧩 **Advanced DSA**
+- 🚀 **DevOps & CI/CD**
+- 🤖 **AI/ML Applications**
 
 ---
 
-!-- Snake Game Repo View -->
+<!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 ---
 
 # 🤝 Open to Collaborate
 
 I'm interested in collaborating on:
 
-* 💻 Software Engineering Projects
-* ☁️ Cloud & Data Engineering
-* 🌐 Full Stack Applications
-* 🤖 AI/ML Projects
-* 🚀 DevOps & CI/CD
-* 🔓 Open Source Projects
-* 🧩 DSA & Problem Solving
+- 💻 Software Engineering Projects
+- ☁️ Cloud & Data Engineering
+- 🌐 Full Stack Applications
+- 🤖 AI/ML Projects
+- 🚀 DevOps & CI/CD
+- 🔓 Open Source Projects
+- 🧩 DSA & Problem Solving
 
 ---
 
